@@ -43,7 +43,7 @@ The Port for the server is 8000 (http://localhost:8000)
 
 ### Error 
 
-Currently app works perfectly file however after huge number of request to the database Mongo client will stop sending data and starts asking for money
+Currently app works perfectly fine however after huge number of request to the database Mongo client will stop sending data and starts asking for money
 
 
 ### Build info
